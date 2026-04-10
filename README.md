@@ -1,16 +1,13 @@
 <div align="center">
 
-  <a href="https://github.com/Shubham-kr-chaudhary">
-    <img src="boot.svg" width="500" />
-  </a>
+  <img src="header.svg" width="100%" />
 
-  <br><br>
+  <br>
 
   <img src="matrix.svg" width="100%" />
 
   <br><br>
 
-<div align="center">
   <h3><code>[ // CURRENT_LOADOUT ]</code></h3>
 
   <p>
@@ -41,7 +38,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   </p>
-</div>
 
 </div>
 
