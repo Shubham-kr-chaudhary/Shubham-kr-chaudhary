@@ -22,6 +22,30 @@
 
 </div>
 
+<br>
+
+<h3><code>[ // SYSTEM_DIAGNOSTICS ]</code></h3>
+
+<pre><code>> INIT_USER_PROFILE...
+> FETCHING_ACTIVE_PROCESSES...
+
+[ CORE_DIRECTIVES ]
+├─ Objective Logic > Performative Metrics
+├─ Radical Honesty in Code & Communication
+└─ Architecting Systems with Absolute Data Integrity
+
+[ HARDWARE_MAINTENANCE ]
+├─ Status: Optimal / CPU Cooling Active
+└─ Routine: Heavy Compound Movements / Bench Press Calibration
+
+[ BACKGROUND_TASKS ]
+├─ Theory-crafting P2P Decentralized Game Networks
+├─ Modding Hardware-Locked Consequence Systems
+└─ Surviving the Hackathon Grind
+</code></pre>
+
+<br>
+
 ---
 
 ### <code>[ // SECURE_COMMS ]</code>
