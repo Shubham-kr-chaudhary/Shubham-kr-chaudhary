@@ -1,12 +1,12 @@
 <div align="center">
 
   <a href="https://github.com/Shubham-kr-chaudhary">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING...;FULL-STACK+ENGINEER+%7C+WEB3;C%2B%2B+PROBLEM+SOLVER;BUILDING+SCALABLE+SYSTEMS" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING...;FULL-STACK+ENGINEER;C%2B%2B+PROBLEM+SOLVER;BUILDING+SCALABLE+SYSTEMS" alt="Typing Animation" />
   </a>
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600" />
+  <img src="matrix.svg" width="100%" />
 
   <br><br>
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
 </div>
@@ -40,7 +40,7 @@
 
 [ BACKGROUND_TASKS ]
 ├─ Designing Scalable Distributed Systems
-├─ Exploring Web3 Infrastructure & Smart Contracts
+├─ High-Performance Computing & Optimization
 └─ Grinding Competitive Programming
 </code></pre>
 
@@ -70,8 +70,8 @@
 
 ### <code>[ // SECURE_COMMS ]</code>
 
-* ⚡ **Focus:** Full-Stack Systems + Web3 + Problem Solving
-* 🧠 **Learning:** Advanced DSA & System Design
+* ⚡ **Focus:** Full-Stack Systems + Backend Architecture
+* 🧠 **Learning:** Advanced DSA & Distributed Design
 * 📫 **Contact:** [shubhamkumar-chaudhary@gmail.com](mailto:shubhamkumar-chaudhary@gmail.com)
 
 </div>
