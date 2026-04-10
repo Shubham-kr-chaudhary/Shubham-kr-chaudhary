@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Shubham-kr-chaudhary">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING...;FULL-STACK+ENGINEER;C%2B%2B+PROBLEM+SOLVER;BUILDING+SCALABLE+SYSTEMS" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=200&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING.;SYSTEM_INITIALIZING..;SYSTEM_INITIALIZING...;SYSTEM_INITIALIZING..;SYSTEM_INITIALIZING.;SYSTEM_INITIALIZING_;SYSTEM_INITIALIZING" alt="Pulse Animation" />
   </a>
 
   <br><br>
