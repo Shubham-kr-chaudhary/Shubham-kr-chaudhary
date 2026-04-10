@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://github.com/Shubham-kr-chaudhary">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING...;WEB3+ARCHITECT+%7C+FULL-STACK;C%2B%2B+LOGIC+ENGINE; alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=00000000&center=true&vCenter=true&width=500&lines=SYSTEM_INITIALIZING...;WEB3+ARCHITECT+%7C+FULL-STACK;C%2B%2B+LOGIC+ENGINE;PIT+BOSS+AT+DEVARENA" alt="Typing Animation" />
   </a>
 
   <br><br>
@@ -9,7 +9,6 @@
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="450" style="border-radius: 8px; opacity: 0.9;" />
 
   <br><br>
-
   <h3><code>[ // CURRENT_LOADOUT ]</code></h3>
   
   <p>
