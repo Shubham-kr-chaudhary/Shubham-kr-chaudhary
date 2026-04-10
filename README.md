@@ -92,7 +92,7 @@
 ### <code>[ // SECURE_COMMS ]</code>
 
 <p>
-  <a href="https://www.linkedin.com/in/shubham-kumar-chaudhary-6699312b9/">
+  <a href="https://www.linkedin.com/in/shubham-kumar-chaudhary-5bbb61225/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shubhamkumarchaudhary@gmail.com">
