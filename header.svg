@@ -11,6 +11,12 @@
     .badge-text { font-size: 11px; font-weight: bold; }
   </style>
 
+  <defs>
+    <clipPath id="bufferWindow">
+      <rect x="0" y="18" width="50" height="22" />
+    </clipPath>
+  </defs>
+
   <rect x="20" y="20" width="180" height="30" class="title-box" />
   <text x="32" y="40" class="base" fill="#fff" font-size="14">[ // USER_OVERRIDE ]</text>
 
@@ -29,14 +35,26 @@
   <g transform="translate(830, 20)">
     <text x="0" y="12" class="base label">BUFFER</text>
     <rect x="0" y="18" width="50" height="22" class="box" />
-    <text x="8" y="33" class="base value">
-      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite" />
-      <tspan>
-        <animate attributeName="visibility" from="visible" to="visible" dur="10s" repeatCount="indefinite" />
-        <animate attributeName="content" values="01%;14%;28%;42%;67%;89%;99%;00%" dur="8s" repeatCount="indefinite" />
-        01%
-      </tspan>
-    </text>
+    
+    <g clip-path="url(#bufferWindow)">
+      <g>
+        <animateTransform 
+          attributeName="transform" 
+          type="translate" 
+          values="0,0; 0,-22; 0,-44; 0,-66; 0,-88; 0,-110; 0,-132; 0,-154" 
+          dur="4s" 
+          repeatCount="indefinite" 
+          calcMode="discrete" />
+        <text x="8" y="33" class="base value">01%</text>
+        <text x="8" y="55" class="base value">14%</text>
+        <text x="8" y="77" class="base value">28%</text>
+        <text x="8" y="99" class="base value">42%</text>
+        <text x="8" y="121" class="base value">67%</text>
+        <text x="8" y="143" class="base value">89%</text>
+        <text x="8" y="165" class="base value">99%</text>
+        <text x="8" y="187" class="base value">00%</text>
+      </g>
+    </g>
   </g>
 
   <text x="20" y="100" class="base name">SHUBHAM KUMAR CHAUDHARY</text>
