@@ -1,37 +1,71 @@
-<svg width="100%" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .binary { font: bold 12px 'Courier New', monospace; fill: #10B981; opacity: 0; }
-    @keyframes fall {
-      0% { transform: translateY(-20px); opacity: 0; }
-      10% { opacity: 1; }
-      90% { opacity: 1; }
-      100% { transform: translateY(420px); opacity: 0; }
-    }
-    /* Randomizing the "drop" timing */
-    .c1 { animation: fall 3s linear infinite; }
-    .c2 { animation: fall 4.5s linear infinite; animation-delay: 1s; }
-    .c3 { animation: fall 2.8s linear infinite; animation-delay: 0.5s; }
-    .c4 { animation: fall 5.2s linear infinite; animation-delay: 2s; }
+    .b { font: bold 14px 'Courier New', monospace; fill: #10B981; opacity: 0; filter: drop-shadow(0 0 3px #10B981); }
+    @keyframes f { 0% { transform: translateY(-30px); opacity: 0; } 5% { opacity: 1; } 95% { opacity: 1; } 100% { transform: translateY(330px); opacity: 0; } }
+    
+    /* Varies Velocity (Falling Speed) */
+    .v0 { animation: f 2s linear infinite; }
+    .v1 { animation: f 3.2s linear infinite; }
+    .v2 { animation: f 4.5s linear infinite; }
+    .v3 { animation: f 5.8s linear infinite; }
+    
+    /* Varies Delay (Start Time Chaos) */
+    .d0 { animation-delay: 0s; }
+    .d1 { animation-delay: 1.5s; }
+    .d2 { animation-delay: 2.3s; }
+    .d3 { animation-delay: 3.8s; }
   </style>
+
+  <text x="10" y="0" class="b v1 d0">1011</text>
+  <text x="30" y="0" class="b v0 d2">00</text>
+  <text x="50" y="0" class="b v2 d1">1101</text>
+  <text x="70" y="0" class="b v3 d3">10</text>
+  <text x="90" y="0" class="b v1 d2">011</text>
+  <text x="110" y="0" class="b v0 d1">10101</text>
+  <text x="130" y="0" class="b v2 d3">001</text>
+  <text x="150" y="0" class="b v3 d0">110</text>
+  <text x="170" y="0" class="b v1 d1">10</text>
+  <text x="190" y="0" class="b v0 d3">1110</text>
+  <text x="210" y="0" class="b v2 d0">01</text>
+  <text x="230" y="0" class="b v3 d2">10111</text>
+  <text x="250" y="0" class="b v1 d3">00</text>
+  <text x="270" y="0" class="b v0 d0">1101</text>
+  <text x="290" y="0" class="b v2 d2">101</text>
+  <text x="310" y="0" class="b v3 d1">0110</text>
+  <text x="330" y="0" class="b v1 d0">11</text>
+  <text x="350" y="0" class="b v0 d2">1010</text>
+  <text x="370" y="0" class="b v2 d1">00</text>
+  <text x="390" y="0" class="b v3 d3">11011</text>
   
-  <text x="20" y="0" class="binary c1">1011</text>
-  <text x="60" y="0" class="binary c2">0101</text>
-  <text x="100" y="0" class="binary c3">1110</text>
-  <text x="140" y="0" class="binary c4">0001</text>
-  <text x="180" y="0" class="binary c1">1010</text>
-  <text x="220" y="0" class="binary c2">0111</text>
-  <text x="260" y="0" class="binary c3">1100</text>
-  <text x="300" y="0" class="binary c4">1011</text>
-  <text x="340" y="0" class="binary c1">0101</text>
-  <text x="380" y="0" class="binary c2">1110</text>
-  <text x="420" y="0" class="binary c3">0001</text>
-  <text x="460" y="0" class="binary c4">1010</text>
-  <text x="500" y="0" class="binary c1">0111</text>
-  <text x="540" y="0" class="binary c2">1100</text>
-  <text x="580" y="0" class="binary c3">1011</text>
-  <text x="620" y="0" class="binary c4">0101</text>
-  <text x="660" y="0" class="binary c1">1110</text>
-  <text x="700" y="0" class="binary c2">0001</text>
-  <text x="740" y="0" class="binary c3">1010</text>
-  <text x="780" y="0" class="binary c4">0111</text>
+  <text x="410" y="0" class="b v1 d2">01</text>
+  <text x="430" y="0" class="b v0 d0">1010</text>
+  <text x="450" y="0" class="b v2 d1">11</text>
+  <text x="470" y="0" class="b v3 d3">0001</text>
+  <text x="490" y="0" class="b v1 d0">10</text>
+  <text x="510" y="0" class="b v0 d2">11101</text>
+  <text x="530" y="0" class="b v2 d3">01</text>
+  <text x="550" y="0" class="b v3 d1">100</text>
+  <text x="570" y="0" class="b v1 d0">110</text>
+  <text x="590" y="0" class="b v0 d3">10</text>
+  <text x="610" y="0" class="b v2 d2">111</text>
+  <text x="630" y="0" class="b v3 d0">0110</text>
+  <text x="650" y="0" class="b v1 d1">101</text>
+  <text x="670" y="0" class="b v0 d3">00</text>
+  <text x="690" y="0" class="b v2 d0">1101</text>
+  <text x="710" y="0" class="b v3 d2">10</text>
+  <text x="730" y="0" class="b v1 d1">0111</text>
+  <text x="750" y="0" class="b v0 d0">10</text>
+  <text x="770" y="0" class="b v2 d3">1101</text>
+  <text x="790" y="0" class="b v3 d2">00111</text>
+
+  <text x="810" y="0" class="b v1 d3">10</text>
+  <text x="830" y="0" class="b v0 d0">1110</text>
+  <text x="850" y="0" class="b v2 d1">01</text>
+  <text x="870" y="0" class="b v3 d2">1011</text>
+  <text x="890" y="0" class="b v1 d3">00</text>
+  <text x="910" y="0" class="b v0 d1">110</text>
+  <text x="930" y="0" class="b v2 d2">10101</text>
+  <text x="950" y="0" class="b v3 d0">01</text>
+  <text x="970" y="0" class="b v1 d1">110</text>
+  <text x="990" y="0" class="b v2 d3">10</text>
 </svg>
