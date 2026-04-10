@@ -1,0 +1,20 @@
+<svg width="500" height="50" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { 
+      font: bold 24px 'Fira Code', 'Courier New', monospace; 
+      fill: #10B981; 
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .cursor { 
+      animation: flicker 0.8s step-end infinite; 
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <text x="250" y="25" class="text">
+    SYSTEM_INITIALIZING...<tspan class="cursor">_</tspan>
+  </text>
+</svg>
