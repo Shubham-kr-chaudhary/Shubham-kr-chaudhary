@@ -1,0 +1,45 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .base { font-family: 'Courier New', monospace; }
+    .label { fill: #888; font-size: 12px; font-weight: bold; }
+    .value { fill: #10B981; font-size: 12px; }
+    .box { fill: #1a1b26; stroke: #333; stroke-width: 1; }
+    .title-box { fill: #333; rx: 4; }
+    .name { fill: #fff; font-size: 32px; font-weight: bold; }
+    .subtitle { fill: #888; font-size: 16px; }
+    .badge-outline { fill: none; stroke-width: 2; rx: 12; }
+    .badge-text { font-size: 11px; font-weight: bold; }
+  </style>
+
+  <rect x="20" y="20" width="180" height="30" class="title-box" />
+  <text x="32" y="40" class="base" fill="#fff" font-size="14">[ // USER_OVERRIDE ]</text>
+
+  <g transform="translate(650, 20)">
+    <text x="0" y="12" class="base label">STATUS</text>
+    <rect x="0" y="18" width="90" height="22" class="box" />
+    <text x="8" y="33" class="base value">DECRYPTING</text>
+  </g>
+
+  <g transform="translate(750, 20)">
+    <text x="0" y="12" class="base label">USER</text>
+    <rect x="0" y="18" width="70" height="22" class="box" />
+    <text x="8" y="33" class="base value">Shubham</text>
+  </g>
+
+  <g transform="translate(830, 20)">
+    <text x="0" y="12" class="base label">BUFFER</text>
+    <rect x="0" y="18" width="50" height="22" class="box" />
+    <text x="8" y="33" class="base value">12%</text>
+  </g>
+
+  <text x="20" y="100" class="base name">SHUBHAM KUMAR CHAUDHARY</text>
+  <text x="20" y="130" class="base subtitle">Full-Stack Developer / System Architect</text>
+
+  <rect x="20" y="150" width="110" height="24" class="badge-outline" stroke="#10B981" />
+  <text x="32" y="166" class="base badge-text" fill="#10B981">PRO_LICENSE</text>
+
+  <rect x="140" y="150" width="110" height="24" class="badge-outline" stroke="#3178C6" />
+  <text x="152" y="166" class="base badge-text" fill="#3178C6">SECURE_CORE</text>
+
+  <line x1="20" y1="190" x2="980" y2="190" stroke="#333" stroke-width="1" />
+</svg>
