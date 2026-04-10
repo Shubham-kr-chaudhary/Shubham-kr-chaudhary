@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="matrix2.svg" width="100%" />
+  <img src="matrix2.svg" width="100%" height="50" />
 
   <br><br>
 
