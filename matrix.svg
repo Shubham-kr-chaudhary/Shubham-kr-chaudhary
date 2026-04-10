@@ -1,29 +1,37 @@
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
   <style>
     .binary { font: bold 12px 'Courier New', monospace; fill: #10B981; opacity: 0; }
     @keyframes fall {
       0% { transform: translateY(-20px); opacity: 0; }
       10% { opacity: 1; }
       90% { opacity: 1; }
-      100% { transform: translateY(220px); opacity: 0; }
+      100% { transform: translateY(420px); opacity: 0; }
     }
+    /* Randomizing the "drop" timing */
     .c1 { animation: fall 3s linear infinite; }
-    .c2 { animation: fall 4s linear infinite; animation-delay: 1s; }
-    .c3 { animation: fall 2.5s linear infinite; animation-delay: 0.5s; }
-    .c4 { animation: fall 5s linear infinite; animation-delay: 2s; }
+    .c2 { animation: fall 4.5s linear infinite; animation-delay: 1s; }
+    .c3 { animation: fall 2.8s linear infinite; animation-delay: 0.5s; }
+    .c4 { animation: fall 5.2s linear infinite; animation-delay: 2s; }
   </style>
   
-  <text x="50" y="0" class="binary c1">10101101</text>
-  <text x="150" y="0" class="binary c2">01101010</text>
-  <text x="250" y="0" class="binary c3">11001101</text>
-  <text x="350" y="0" class="binary c4">10101011</text>
-  <text x="450" y="0" class="binary c1">01110101</text>
-  <text x="550" y="0" class="binary c2">10101010</text>
-  <text x="650" y="0" class="binary c3">00110110</text>
-  <text x="750" y="0" class="binary c4">11100011</text>
-  
-  <text x="100" y="0" class="binary c3">01011010</text>
-  <text x="300" y="0" class="binary c1">11010101</text>
-  <text x="500" y="0" class="binary c4">00101101</text>
-  <text x="700" y="0" class="binary c2">10110011</text>
+  <text x="20" y="0" class="binary c1">1011</text>
+  <text x="60" y="0" class="binary c2">0101</text>
+  <text x="100" y="0" class="binary c3">1110</text>
+  <text x="140" y="0" class="binary c4">0001</text>
+  <text x="180" y="0" class="binary c1">1010</text>
+  <text x="220" y="0" class="binary c2">0111</text>
+  <text x="260" y="0" class="binary c3">1100</text>
+  <text x="300" y="0" class="binary c4">1011</text>
+  <text x="340" y="0" class="binary c1">0101</text>
+  <text x="380" y="0" class="binary c2">1110</text>
+  <text x="420" y="0" class="binary c3">0001</text>
+  <text x="460" y="0" class="binary c4">1010</text>
+  <text x="500" y="0" class="binary c1">0111</text>
+  <text x="540" y="0" class="binary c2">1100</text>
+  <text x="580" y="0" class="binary c3">1011</text>
+  <text x="620" y="0" class="binary c4">0101</text>
+  <text x="660" y="0" class="binary c1">1110</text>
+  <text x="700" y="0" class="binary c2">0001</text>
+  <text x="740" y="0" class="binary c3">1010</text>
+  <text x="780" y="0" class="binary c4">0111</text>
 </svg>
