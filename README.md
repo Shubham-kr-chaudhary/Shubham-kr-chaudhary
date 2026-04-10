@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/Vsc6L1031pTToiXpXp/giphy.gif" width="450" style="border-radius: 8px; opacity: 0.85;" />
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="450" style="border-radius: 8px; opacity: 0.9;" />
 
   <br><br>
 
