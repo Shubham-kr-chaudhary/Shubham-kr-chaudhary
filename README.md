@@ -46,6 +46,24 @@
 
 <br>
 
+<h3><code>[ // RIG_SPECS ]</code></h3>
+
+<pre><code>> FETCHING_LOCAL_HARDWARE...
+> STATUS: ONLINE & OVERCLOCKED
+
+[ SYSTEM_COMPONENTS ]
+├─ OS:   Windows 11 Pro
+├─ CPU:  AMD Ryzen 7 7800X3D
+├─ MOBO: Gigabyte B850M Gaming X WIFI6E
+├─ RAM:  TeamGroup T-Force Delta RGB 16GB DDR5 6000MHz
+├─ SSD:  Hikvision G4000 1TB M.2 NVMe Gen4 (7400MB/s)
+├─ PSU:  DeepCool PL750D ATX 3.1 750W 80+ Bronze
+├─ CASE: Ant Esports Crystal ARGB (Black)
+└─ UPS:  CyberPower 2200VA
+</code></pre>
+
+<br>
+
 ---
 
 ### <code>[ // SECURE_COMMS ]</code>
