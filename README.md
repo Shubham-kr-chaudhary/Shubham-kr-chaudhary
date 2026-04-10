@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.svg" width="100%" />
+  <img src="header.svg?v=1" width="100%" />
 
   <br>
 
@@ -85,12 +85,26 @@
 
 ---
 
+---
+
 <div align="center">
 
 ### <code>[ // SECURE_COMMS ]</code>
 
-* ⚡ **Focus:** Full-Stack Systems + Backend Architecture
-* 🧠 **Learning:** Advanced DSA & Distributed Design
-* 📫 **Contact:** [shubhamkumar-chaudhary@gmail.com](mailto:shubhamkumar-chaudhary@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/shubham-kumar-chaudhary-6699312b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shubhamkumarchaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br>
+
+<pre><code>> STATUS: STANDBY
+> LOCATION: INDIA_IN
+> OBJECTIVE: BUILDING_SCALABLE_SYSTEMS
+</code></pre>
 
 </div>
